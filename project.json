@@ -3,7 +3,7 @@
   "$schema": "node_modules/nx/schemas/project-schema.json",
   "includedScripts": [],
   "projectType": "application",
-  "prefix": "app",
+  "prefix": "nv",
   "sourceRoot": "./src",
   "tags": [],
   "targets": {
@@ -38,8 +38,7 @@
               "type": "initial",
               "maximumWarning": "500kb",
               "maximumError": "1mb"
-            },
-            {
+            }, {
               "type": "anyComponentStyle",
               "maximumWarning": "4kb",
               "maximumError": "8kb"

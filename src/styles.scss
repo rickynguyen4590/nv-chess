@@ -1,1 +1,6 @@
-/* You can add global styles to this file, and also import other style files */
+@use "bootstrap/scss/bootstrap-reboot";
+@use "bootstrap/scss/bootstrap-utilities";
+@use "bootstrap/scss/bootstrap-grid";
+@import "./styles/3d.css";
+@import "./styles/chessground.css";
+@import "./styles/theme.css";
